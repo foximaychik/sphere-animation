@@ -3,8 +3,8 @@
 ### Info
 It's my mini-project on Processing.
 
-### Controls:
+### Controls
 - Shift for DEBUG window
 
 ### Credits
-- Font "Monocraft.ttf"
+Font "Monocraft.ttf"
